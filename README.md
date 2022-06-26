@@ -5,4 +5,4 @@ CBSE Class 12 - 93%,
 Karate Black Belt,
 School House Captain,
 District level-Cricket and Football,
-Participated in NASA Space Settlement Program.
+Assistant Editor at Echoes Thapar
