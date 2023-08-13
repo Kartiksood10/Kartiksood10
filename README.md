@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Hi I'm Kartik Sood, currently in my Final Year at Thapar Institute of Engineering and Technology. Been exploring the fields of Web Development, Generative Ai and Machine Learning. Former Software Engineer Intern [@Prodapt](https://www.linkedin.com/company/prodapt/). Apart from Programming, I enjoy gaming with my friends, watching and playing football and cricket.
 
-<img width="380" align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw00GDwKTGG7Tm7Ljj6bIrtw&ust=1692031255754000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCAleGJ2oADFQAAAAAdAAAAABAE" />
+<img width="380" align="right" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
   
 **A little more about me:**
@@ -53,7 +53,6 @@ Hi I'm Kartik Sood, currently in my Final Year at Thapar Institute of Engineerin
 <code><img height="40" src="./Logo/mongo.png"></code>
 <code><img height="40" src="./Logo/MySQL.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 <code><img height="40" src="./Logo/langchain.png"></code>
 <code><img height="40" src="./Logo/aws.png"></code>
 <code><img height="40" src="./Logo/streamlit.png"></code>
