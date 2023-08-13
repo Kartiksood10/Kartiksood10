@@ -63,7 +63,9 @@ Hi I'm Kartik Sood, currently in my Final Year at Thapar Institute of Engineerin
 
 
 <a  href="https://github.com/Kartiksood10"> 
+  <!--
   <img alt="Kartik's Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kartiksood10&theme=dark&show_icons=true&hide_border=false&count_private=true" href="https://github.com/Kartiksood10" />
+  -->
   <img alt="Kartik's Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartiksood10&theme=dark&hide_border=false" href="https://github.com/Kartiksood10" />
   <img alt="Kartik's Top Languages" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartiksood10&theme=dark&show_icons=true&hide_border=false&layout=compact" href="https://github.com/Kartiksood10" />
 </a>
