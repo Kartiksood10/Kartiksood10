@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 Hi I'm Kartik Sood, currently in my Final Year at Thapar Institute of Engineering and Technology. Been exploring the fields of Web Development, Generative Ai and Machine Learning. Former Software Engineer Intern [@Prodapt](https://www.linkedin.com/company/prodapt/). Apart from Programming, I enjoy gaming with my friends, watching and playing football and cricket.
 
-<img width="380" align="right" alt="GIF" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsudoshivesh&psig=AOvVaw1bOr6nfuP-wQqps-KgKcPn&ust=1692022555968000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCcxKzp2YADFQAAAAAdAAAAABAe](https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif)"/>
+![image](https://github.com/Kartiksood10/Kartiksood10/assets/82945071/ab6ee0f3-53a5-4575-abeb-a773fb13dd34)
+
   
 **A little more about me:**
 
