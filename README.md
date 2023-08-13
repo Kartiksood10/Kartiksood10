@@ -20,19 +20,19 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi I'm Kartik Sood, currently in my Final Year at Thapar Institute of Engineering and Technology. Been exploring the fields of Web Development, Generative Ai and Machine Learning. Former Software Engineer Intern [@Prodapt](https://www.linkedin.com/company/prodapt/). Apart from Programming, I enjoy gaming with my friends, watching and playing football and cricket.
+Hi I'm Kartik Sood, currently in my Final Year at Thapar Institute of Engineering and Technology. About my technical skills, I have been exploring and working in the exciting fields of Web Development, Generative Ai and Machine Learning. I am a former Software Engineer Intern [@Prodapt](https://www.linkedin.com/company/prodapt/). Apart from Programming, I enjoy gaming with my friends, watching and playing football, and watching Stand-up comedy and sit-coms!
 
 <img width="380" align="right" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
   
-**A little more about me:**
+**Diving Deeper into my Profile:**
 
 - ⚡️ Fun Fact: I am a Martial Arts Black Belt!
-- 👨🏽‍💻 I’m currently working on Web Development;
-- 🌱 I’m currently learning Generative AI;
-- 👯 I’m looking to collaborate on Web Development projects 🤝;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: kartiksood2002@gmail.com;
+- 👨🏽‍💻 I’m currently working on Web Development.
+- 🌱 I’m eager to learn more about Generative AI.
+- 👯 I’m looking to collaborate on Web Development projects 🤝.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: kartiksood2002@gmail.com.
 
 **Languages and Tools:**
 
@@ -57,6 +57,9 @@ Hi I'm Kartik Sood, currently in my Final Year at Thapar Institute of Engineerin
 <code><img height="40" src="./Logo/postman.jpg"></code>
 <code><img height="40" src="./Logo/vscode.jpg"></code>
 <code><img height="40" src="./Logo/pycharm.webp"></code>
+<code><img height="40" src="./Logo/intellij.png"></code>
+<code><img height="40" src="./Logo/github.png"></code>
+<code><img height="40" src="./Logo/jupyter.png"></code>
 
 
 <a  href="https://github.com/Kartiksood10"> 
