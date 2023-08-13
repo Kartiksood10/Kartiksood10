@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <!--
-**Kartiksood10/Kartiksood10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+**specter25/specter25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey 👋🏽, I'm Kartik Sood <a href="https://www.linkedin.com/in/kartiksood10/">
+
+  <img style="color:white; background-color:white" align="left" alt="Kartik's LinkedIn" width="32px" src="./Logo/linkedin.webp" />
+</a>
+<br />
+<br />
+
+Hi I'm Kartik Sood, currently in my Final Year at Thapar Institute of Engineering and Technology. Been exploring the fields of Web Development, Generative Ai and Machine Learning. Former Software Engineer Intern [@Prodapt](https://www.linkedin.com/company/prodapt/). Apart from Programming, I enjoy gaming with my friends, watching and playing football and cricket.
+
+<img width="380" align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsudoshivesh&psig=AOvVaw1bOr6nfuP-wQqps-KgKcPn&ust=1692022555968000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCcxKzp2YADFQAAAAAdAAAAABAe"/>
+  
+**A little more about me:**
+
+- ⚡️ Fun Fact: I am a Martial Arts Black Belt!
+- 👨🏽‍💻 I’m currently working on Web Development;
+- 🌱 I’m currently learning Generative AI;
+- 👯 I’m looking to collaborate on Web Development projects 🤝;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: kartiksood2002@gmail.com;
+
+**Languages and Tools:**
+
+<code><img height="40" src="./Logo/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="./Logo/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="./Logo/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="40" src="./Logo/nodejs.webp"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="40" src="./Logo/mongo.png"></code>
+<code><img height="40" src="./Logo/MySQL.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<!--
+<code><img height="40" src="./Logo/langchain.png"></code>
+<code><img height="40" src="./Logo/aws.png"></code>
+<code><img height="40" src="./Logo/streamlit.png"></code>
+<code><img height="40" src="./Logo/postman.jpg"></code>
+<code><img height="40" src="./Logo/vscode.jpg"></code>
+<code><img height="40" src="./Logo/pycharm.webp"></code>
+-->
+
+<a  href="https://github.com/Kartiksood10"> 
+  <img alt="Kartik's Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AyushAgarwal0109&theme=dark&show_icons=true&hide_border=false&count_private=true" href="https://github.com/Kartiksood10" />
+  <img alt="Kartik's Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAgarwal0109&theme=dark&hide_border=false" href="https://github.com/Kartiksood10" />
+  <img alt="Kartik's Top Languages" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAgarwal0109&theme=dark&show_icons=true&hide_border=false&layout=compact" href="https://github.com/Kartiksood10" />
+</a>
