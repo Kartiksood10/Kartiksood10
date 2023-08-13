@@ -58,7 +58,9 @@ Hi I'm Kartik Sood, currently in my Final Year at Thapar Institute of Engineerin
 <code><img height="40" src="./Logo/pycharm.webp"></code>
 <code><img height="40" src="./Logo/intellij.png"></code>
 <code><img height="40" src="./Logo/github.png"></code>
+<!--
 <code><img height="40" src="./Logo/jupyter.png"></code>
+-->
 
 
 <a  href="https://github.com/Kartiksood10"> 
