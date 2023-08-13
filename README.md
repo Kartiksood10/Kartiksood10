@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hey 👋🏽, I'm Kartik Sood 
-Connect with me on linkedin : 
 <a href="https://www.linkedin.com/in/kartiksood10/"> <img style="color:white; background-color:white" align="left" alt="Kartik's LinkedIn" width="32px" src="./Logo/linkedin.webp" />
 </a>
-
-  
 <br />
 <br />
 
