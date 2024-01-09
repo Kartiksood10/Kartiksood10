@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br />
 Hi I'm Kartik Sood, currently in my Final Year at Thapar Institute of Engineering and Technology. About my technical skills, I have been exploring and working in the exciting fields of Web Development, Generative Ai and Machine Learning. I am a former Software Engineer Intern [@Prodapt](https://www.linkedin.com/company/prodapt/). Apart from Programming, I enjoy gaming with my friends, watching and playing football, and watching Stand-up comedy and sit-coms!
 
-<img width="380" align="right" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img width="380" align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
   
 **Diving Deeper into my Profile:**
