@@ -6,7 +6,7 @@
 
 ### Software Engineer · Backend Developer · AI Enthusiast
 
-<img width="420" align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Kartik coding at his desk" />
+<img width="360" align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Kartik coding at his desk" />
 
 I've spent 2+ years building scalable backend services with **Java, Spring Boot, and microservices** in distributed environments. I've worked across databases and cloud technologies, and enjoy connecting backend engineering to the full product workflow. Lately, I've also been exploring practical AI and ways to make everyday development smoother. Outside of work, I'm a martial arts black belt who enjoys gaming, football, stand-up comedy, and sitcoms.
 
