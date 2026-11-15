@@ -8,7 +8,7 @@
 
 ### Software Engineer · Backend Developer · AI Enthusiast
 
-I'm a Software Engineer at Mindsprint building scalable backend services with **Java, Spring Boot, and microservices** in distributed environments. I've worked across databases and cloud technologies, and enjoy connecting backend engineering to the full product workflow. Lately, I've also been exploring Agentic AI and ways to make everyday development smoother. Outside of work, I'm a martial arts black belt who enjoys gaming, football, stand-up comedy, and sitcoms.
+I'm a Software Engineer at Mindsprint building scalable backend services with **Java, Spring Boot, and microservices** in distributed environments. I've worked across databases and cloud technologies, and enjoy connecting backend engineering to the full product workflow. Lately, I've also been exploring Agentic AI and ways to make everyday development smoother.
 
 <br clear="right" />
 
