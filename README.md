@@ -2,8 +2,6 @@
 
 # Hey 👋🏽, I'm Kartik Sood
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=520&lines=Software+Engineer+at+Mindsprint;Backend+Developer;Java+%26+Spring+Boot)](https://git.io/typing-svg)
-
 ### Software Engineer · Backend Developer · AI Enthusiast
 
 I'm a Software Engineer at Mindsprint building scalable backend services with **Java, Spring Boot, and microservices** in distributed environments. I've worked across databases and cloud technologies, and enjoy connecting backend engineering to the full product workflow. Lately, I've also been exploring Agentic AI and ways to make everyday development smoother. Outside of work, I'm a martial arts black belt who enjoys gaming, football, stand-up comedy, and sitcoms.
