@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="Decorative header wave" />
+
 # Hey 👋🏽, I'm Kartik Sood
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=520&lines=Software+Engineer+at+Mindsprint;Backend+Developer;Java+%26+Spring+Boot)](https://git.io/typing-svg)
@@ -14,7 +16,7 @@ I'm a **Software Engineer at Mindsprint**, focused on building backend services 
 
 <p align="left">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,hibernate,react,html,css,js,postgres,redis,rabbitmq,bitbucket,gcp,docker,kubernetes,jenkins,ai,sklearn&perline=20&theme=dark" alt="Java, Python, Spring, Hibernate, React, HTML, CSS, JavaScript, PostgreSQL, Redis, RabbitMQ, Bitbucket, GCP, Docker, Kubernetes, Jenkins, AI, and scikit-learn" />
+    <img src="https://skillicons.dev/icons?i=java,py,spring,hibernate,react,html,css,js,postgres,redis,rabbitmq,bitbucket,gcp,docker,kubernetes,jenkins,ai,sklearn,git,github,idea,vscode,postman,powershell,aws&perline=30&theme=dark" alt="Java, Python, Spring, Hibernate, React, HTML, CSS, JavaScript, PostgreSQL, Redis, RabbitMQ, Bitbucket, GCP, Docker, Kubernetes, Jenkins, AI, scikit-learn, Git, GitHub, IntelliJ IDEA, VS Code, Postman, PowerShell, and AWS" />
   </a>
 </p>
 
@@ -24,13 +26,13 @@ I'm a **Software Engineer at Mindsprint**, focused on building backend services 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kartiksood10/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img height="48" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Kartiksood10" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img height="48" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
   </a>
   <a href="mailto:kartiksood2002@gmail.com" title="Email Kartik">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img height="48" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
 </p>
 
