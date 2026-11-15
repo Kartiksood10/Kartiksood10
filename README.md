@@ -2,7 +2,7 @@
 
 # Hey 👋🏽, I'm Kartik Sood
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=27&duration=3500&pause=450&color=D9BED1&width=850&lines=Software+Engineer+at+Mindsprint+%C2%B7+Backend+Developer+%C2%B7+Java+%26+Spring+Boot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=520&lines=Software+Engineer+at+Mindsprint;Backend+Developer;Java+%26+Spring+Boot)](https://git.io/typing-svg)
 
 ### Software Engineer · Backend Developer · AI Enthusiast
 
