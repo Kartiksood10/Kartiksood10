@@ -12,7 +12,7 @@ I'm a Software Engineer at Mindsprint building scalable backend services with **
 
 <br clear="right" />
 
-## Main Skills
+## Languages, Frameworks & Tools
 
 <p align="left">
   <a href="https://skillicons.dev/">
