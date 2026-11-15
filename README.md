@@ -14,7 +14,7 @@ I'm a Software Engineer at Mindsprint building scalable backend services with **
 
 <p align="left">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,hibernate,react,html,css,js,postgres,redis,rabbitmq,bitbucket,gcp,docker,kubernetes,jenkins,sklearn,git,github,idea,vscode,postman,powershell,aws,fastapi,visualstudioi&perline=13&theme=dark" alt="Java, Python, Spring, Hibernate, React, HTML, CSS, JavaScript, PostgreSQL, Redis, RabbitMQ, Bitbucket, GCP, Docker, Kubernetes, Jenkins, scikit-learn, Git, GitHub, IntelliJ IDEA, VS Code, Postman, PowerShell, AWS, FastAPI and VisualStudio" />
+    <img src="https://skillicons.dev/icons?i=java,py,spring,hibernate,react,html,css,js,postgres,redis,rabbitmq,bitbucket,gcp,docker,kubernetes,jenkins,sklearn,git,github,idea,vscode,postman,powershell,aws,fastapi,visualstudio&perline=13&theme=dark" alt="Java, Python, Spring, Hibernate, React, HTML, CSS, JavaScript, PostgreSQL, Redis, RabbitMQ, Bitbucket, GCP, Docker, Kubernetes, Jenkins, scikit-learn, Git, GitHub, IntelliJ IDEA, VS Code, Postman, PowerShell, AWS, FastAPI and VisualStudio" />
   </a>
 </p>
 
