@@ -2,10 +2,11 @@
 
 # Hey 👋🏽, I'm Kartik Sood
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=520&lines=Software+Engineer+at+Mindsprint;Backend+Developer;Java+%26+Spring+Boot)](https://git.io/typing-svg)
-### Software Engineer · Backend Developer · AI Enthusiast
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=27&duration=3500&pause=450&color=D9BED1&width=650&lines=Java+%26+Spring+Boot;Building+scalable+backend+systems;Practical+AI+%26+good+engineering)](https://git.io/typing-svg)
 
-I'm a **Software Engineer at Mindsprint**, focused on building backend services with **Java and Spring Boot**. I'm interested in scalable systems and practical AI. Outside work, I'm a martial arts black belt who enjoys gaming, football, stand-up comedy, and sitcoms.
+### Hey, I'm Kartik! A Software Engineer at Mindsprint with 2+ years building backend systems.
+
+I work with **Java, Spring Boot, and microservices** to build scalable services in distributed environments. I've worked across databases and cloud technologies, and enjoy connecting backend engineering to the full product workflow. Lately, I've also been exploring practical AI and ways to make everyday development smoother. Outside of work, I'm a martial arts black belt who enjoys gaming, football, stand-up comedy, and sitcoms.
 
 <div>
   <img width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Kartik's coding GIF" />
