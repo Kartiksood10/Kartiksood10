@@ -1,25 +1,35 @@
 # Hey 👋🏽, I'm Kartik Sood
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=520&lines=Software+Engineer+at+Mindsprint;Backend+Developer;Java+%26+Spring+Boot)](https://git.io/typing-svg)
+
+I'm a Software Engineer at Mindsprint, focused on backend development with Java and Spring Boot. I enjoy building scalable systems and exploring practical uses for AI. Outside work, I'm a martial arts black belt who enjoys gaming, football, stand-up comedy, and sitcoms.
+
+<div>
+  <img width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Kartik's coding GIF" />
+</div>
+
+### Main skills
+
+<a href="https://skillicons.dev/">
+  <img align="left" src="https://skillicons.dev/icons?i=java,py,spring,hibernate,bitbucket,postgres,redis,rabbitmq,gcp,docker,kubernetes,jenkins&perline=8&theme=dark" alt="Java, Python, Spring, Hibernate, Bitbucket, PostgreSQL, Redis, RabbitMQ, GCP, Docker, Kubernetes, Jenkins" />
+</a>
+
+<br clear="left" />
+
+### Connect with me!
+
 [LinkedIn](https://www.linkedin.com/in/kartiksood10/) · [GitHub](https://github.com/Kartiksood10) · [Email](mailto:kartiksood2002@gmail.com)
 
-<img align="right" width="250" alt="Animated illustration of a developer at work" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+### Employer?
 
-Hi, I'm Kartik, a Software Engineer at Mindsprint. I build backend services with Java and Spring Boot, and I've worked on large-scale communication systems as well as generative AI applications. I'm interested in backend engineering, machine learning, and practical AI. Outside work, I enjoy gaming with friends, watching and playing football, stand-up comedy, and sitcoms.
+> Interested in my experience? [Connect with me on LinkedIn](https://www.linkedin.com/in/kartiksood10/) or [email me](mailto:kartiksood2002@gmail.com).
 
-<br clear="right" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=90&section=footer" alt="Decorative footer wave" />
 
-## Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,js,react,html,css,hibernate,postgres,redis,rabbitmq,gcp,docker,kubernetes,jenkins&perline=8&theme=dark" alt="Java, Spring, Python, BitBucket, Hibernate, PostgreSQL, Redis, RabbitMQ, Google Cloud, Docker, Kubernetes, and Jenkins" />
-</p>
-
-**Also working with:** SQL · Spring Batch · REST APIs · JPA · Microservices · Google BigQuery · ClickHouse · Twilio · Plivo · CI/CD · Agentic AI · LangGraph · LangChain · FAISS · Vector databases · Prompt engineering · Machine learning · Claude Code
-
-## GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img width="65%" src="./profile/stats.svg" alt="Kartik's automatically refreshed GitHub stats" />
+  <a href="https://github.com/Kartiksood10">
+    <img width="65%" src="https://github-stats-extended.vercel.app/api?username=Kartiksood10&show_icons=true&include_all_commits=true&hide_rank=true&theme=transparent" alt="Kartik's GitHub statistics, including total commits" />
+  </a>
 </p>
-
-<p align="center"><sub>Updated daily from GitHub's public data.</sub></p>
