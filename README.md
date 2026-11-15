@@ -6,6 +6,8 @@
 
 <img width="360" align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Kartik coding at his desk" />
 
+## Introduction
+
 ### Software Engineer · Backend Developer · AI Enthusiast
 
 I'm a Software Engineer at Mindsprint building scalable backend services with **Java, Spring Boot, and microservices** in distributed environments. I've worked across databases and cloud technologies, and enjoy connecting backend engineering to the full product workflow. Lately, I've also been exploring Agentic AI and ways to make everyday development smoother.
