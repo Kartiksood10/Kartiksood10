@@ -36,8 +36,10 @@ I'm a Software Engineer at Mindsprint building scalable backend services with **
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Kartiksood10&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Kartiksood10&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
-
-<p align="center"><sub>Public GitHub data · cached by the stats service, so totals may lag by hours or longer.</sub></p>
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=Kartiksood10&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark">
+    <img src="https://github-stats-extended.vercel.app/api?username=Kartiksood10&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
+  </a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=90&section=footer" alt="Decorative footer wave" />
