@@ -36,11 +36,7 @@ I'm a Software Engineer at Mindsprint building scalable backend services with **
 
 ## GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Kartiksood10">
-    <img width="360" src="https://github-stats-extended.vercel.app/api?username=Kartiksood10&show_icons=true&include_all_commits=true&hide_rank=true&theme=transparent&card_width=360&cache_seconds=21600" alt="Kartik's public GitHub statistics, including all-time total commits" />
-  </a>
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Kartiksood10&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Kartiksood10&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
 
 <p align="center"><sub>Public GitHub data · cached by the stats service, so totals may lag by hours or longer.</sub></p>
 
